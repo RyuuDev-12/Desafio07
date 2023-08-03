@@ -97,6 +97,14 @@ p{
     bottom: 0;
 }
 
+.objectJS{
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+}
+
 /* responsive */
 
 @media(max-width:1319px){
